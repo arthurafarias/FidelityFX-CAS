@@ -71,7 +71,7 @@ include(FetchContent)
 FetchContent_Declare(
   ffx-cas
   GIT_REPOSITORY https://github.com/arthurafarias/FidelityFX-CAS.git
-  GIT_TAG        3a89494e45ccac621fbf10c8f72a62fc0c182d8b
+  GIT_TAG        61fd4a02976a77fc57b3d4263fbed2a4e58ffb31
 )
 
 FetchContent_MakeAvailable(ffx-cas)
